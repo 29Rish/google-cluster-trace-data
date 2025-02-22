@@ -1,6 +1,3 @@
-Certainly! Below are the instructions formatted for a GitHub README:
-
-```markdown
 # Data Download Instructions
 
 The data is stored in Google Storage for Developers. Each trace uses its own bucket. In this example, we will use the `v2.1` trace from 2011, called `clusterdata-2011-2`. You do not need to have a Google account or sign up for Google Storage to download the data.
@@ -66,5 +63,3 @@ gsutil ls gs://clusterdata-2011-2/
 
 For additional information, refer to the official Google Cloud documentation on [gsutil](https://cloud.google.com/storage/docs/gsutil).
 ```
-
-This format should be perfect for inclusion in a GitHub repository's `README.md` file. Let me know if you'd like any additional changes!
